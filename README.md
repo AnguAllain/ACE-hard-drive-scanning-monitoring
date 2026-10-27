@@ -1,6 +1,6 @@
-# AceSentry —— ACE 反作弊磁盘活动观测器
+# ACE扫盘监测/ACE hard drive scanning monitoring
 
-单文件 exe，内嵌 Sysinternals Procmon，只做只读观测：记录 ACE 在运行时访问了哪些文件、频率多高。**不修改、不拦截、不绕过 ACE。**
+单文件 exe，内嵌 Sysinternals Procmon
 
 ## 文件
 
